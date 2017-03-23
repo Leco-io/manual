@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Overview](chapter1.md)
